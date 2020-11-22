@@ -1,0 +1,30 @@
+
+img{
+    width: 100%;
+}
+body{
+    background-image: url("../images/picture.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    box-sizing: border-box;
+
+}
+h1{
+    color: white;
+}
+h4{
+    color: white;
+}
+h2{
+    color: black;
+}
+
+.box{
+    border: 10px dashed;
+    border-color: white;
+    width: 500px;
+    height: 400px;
+}
+.file1{
+    margin-top: 100px;
+}
